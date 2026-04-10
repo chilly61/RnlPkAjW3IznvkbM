@@ -291,6 +291,7 @@ The stacking ensemble outperforms individual models:
 
 Thanks to the Apziva team for their support and guidance.
 
+
 ## License
 
-This project is for internal use only.
+MIT
