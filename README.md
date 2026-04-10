@@ -13,7 +13,7 @@ The project implements a sophisticated ensemble learning approach with:
 This project was developed as part of the Apziva program, demonstrating advanced machine learning techniques for customer satisfaction prediction.
 
 > **Note:** Please read `RnlPkAjW3IznvkbM.pdf` for comprehensive results and analysis.
-📊 **Visualization**: See [ProjectB_Visualization.pdf](RnlPkAjW3IznvkbM.pdf)
+📊 **Visualization**: See [RnlPkAjW3IznvkbM.pdf](RnlPkAjW3IznvkbM.pdf)
 
 ## Core Features
 
